@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My volcano Site!
 
 You can use the [editor on GitHub](https://github.com/jcbrito/jcbrito/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
