@@ -1,12 +1,10 @@
-## Welcome to My volcano Site!
+## GEOL 1021 Infographic assignment!
 
-You can use the [editor on GitHub](https://github.com/jcbrito/jcbrito/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The interesting site i have chonsen for my infographic assignment is the Galapagos Islands. I have chosen this as my site because it is a famous tourist attraction from my home home country, Ecuador. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Description & history
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
