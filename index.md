@@ -13,7 +13,13 @@ _The Galapagos Islands. (n.d.). [Illustration]. https://www.galapagos.org/about_
 ## Isabela
 This is the largest island measuring 120 km and is also the youngest. A northern location served as shelter for sea farers such as pirates and whalers. Colonization focused more on resource extraction rather than human settlement, what started as a small mining operations or plantations evolved into towns which ended up reaching a population of 1749 in 2006. 
 
-The island was formed by multiple volcanoes. Isabela island has the most volcanic activity than the other islands. Isabela island is home to the Sierra Negra volcano which allows visitors to see thousand-year-old sulfur crystals and walk near recent lava flows. Furthermore, there are many other wonderful views and sites that tell the story of how the whole Archipelago was formed. In Isabela island one can also see the tortoises at the Tortoise Center, which house the endangered giant tortoises found only in the Galapagos islands.
+The island was formed by multiple volcanoes. Isabela island has the most volcanic activity than the other islands. Isabela island is home to the Sierra Negra volcano which allows visitors to see thousand-year-old sulfur crystals and walk near recent lava flows. Furthermore, there are many other wonderful views and sites that tell the story of how the whole archipelago was formed. In Isabela island one can also see the tortoises at the Tortoise Center, which house the endangered giant tortoises found only in the Galapagos islands.
+
+![Sierra Negra](Images/SierraNegra.png)
+**source**: 
+_Sierra Negra. (n.d.). [Photograph]. https://volcano.si.edu/volcano.cfm?vn=353050_
+
+## Spañola
 
 
 # Header 1
