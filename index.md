@@ -10,7 +10,7 @@ _The Galapagos Islands. (n.d.). [Illustration]. https://www.galapagos.org/about_
 
 
 
-#Isabela
+# Isabela
 This is the largest island measuring 120 km and is also the youngest. A northern location served as shelter for sea farers such as pirates and whalers. Colonization focused more on resource extraction rather than human settlement, what started as a small mining operations or plantations evolved into towns which ended up reaching a population of 1749 in 2006. 
 
 
