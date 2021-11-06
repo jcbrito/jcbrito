@@ -2,8 +2,9 @@
 
 The interesting site i have chosen for my infographic assignment is the Galapagos Islands. I have chosen this as my site because it is a famous tourist attraction from my home country, Ecuador. The Galapagos Islands are located about 1000 km away from the continent of South America and contain about 19 large islands, according to the UNESCO website. The Galapagos Islands are home to many interesting sites such as the Charles Darwin Research Station, volcanoes like the Wolf or Cerro Azul, and unique species such as the giant tortoise or large diversity of birds and iguanas.
 
-### Description & history
+### The islands
 ![Islands](/Images/Islands.PNG)
+source: _Italic_ The Galapagos Islands. (n.d.). [Illustration]. https://www.galapagos.org/about_galapagos/about-galapagos/the-islands/isabela/
 
 
 ```markdown
