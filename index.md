@@ -17,12 +17,21 @@ The island was formed by multiple volcanoes. Isabela island has the most volcani
 
 The Sierra Negra volcano is a shield volcano and is considered one of the most active volcanos along with Cerro Azul and Wolf.
 
-![Sierra Negra](Images/SierraNegra.PNG)
+![Sierra Negra](/Images/SierraNegra.PNG)
 
 **source**: 
 _Sierra Negra. (n.d.). [Photograph]. https://volcano.si.edu/volcano.cfm?vn=353050_
 
 ## Spañola
+The southernmost island in the archipelago. This island houses the two most interesting visitor sites. Since it is such an isolated island, it is home to many exotic species such as the Española lava lizard. The Spañola Island is a shield volcano. The Spañola Island is mostly known for rescuing the Española giant tortoise from sure extinction. Thanks to the effort of many, the tortoises are now thriving and available for the world to see.
+
+![Lava Lizard](/Images/LavaLizzard.PNG)
+
+**source**: 
+_The Galapagos Islands. (n.d.). [Photograph]. https://www.galapagos.org/about_galapagos/about-galapagos/biodiversity/reptiles/_
+
+**Lava Lizards** 
+ vary in color depending on the island they are from. Their color depends on how dark the lava from their home island is, and they are also able to detach their tail to escape from predators and regrow it after some time. How cool is that?
 
 
 # Header 1
